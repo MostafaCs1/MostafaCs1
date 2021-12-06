@@ -53,6 +53,7 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
   <img height="40" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>
+  <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
 </p><br>
 
