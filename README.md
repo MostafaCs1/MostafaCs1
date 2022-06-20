@@ -19,13 +19,13 @@
   <em>
     Hello, I am Mostafa Mortezapour a <b>final year</b> undergraduate from <a href="http://en.azaruniv.ac.ir/"> <b>AZARBAIJAN SHAHID MADANI UNIVERSITY</b>, Iran </a>. <br>
     <b>a passionate self-learner</b> and a <b>Machine Learning Engineer</b>&nbsp;,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data. 
   </em> 
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me:***
+***About me:***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning about **deep learning**🥰<br>
@@ -34,7 +34,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools:***
+***Languages and Tools:***
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/>
@@ -47,7 +47,7 @@
 </p><br><br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Libraries and Frameworks:***
+***Libraries and Frameworks:***
 <p align="left"> 
   <img height="40" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png"/>
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"/>
@@ -57,7 +57,7 @@
   <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
 </p><br>
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ Git Activeness</b></i></p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafacs1&show_icons=true&count_private=true&include_all_commits=true&title_color=009933&icon_color=009933)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaCs1&layout=compact&custom_title=I%20use&title_color=009933&card_width=445)
 </div>
