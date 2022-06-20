@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I am Mostafa Mortezapour </h1>
+<h1 align="center">Hi, I am Mostafa Mortezapour </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
