@@ -8,7 +8,7 @@
 </p>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mostafa-mortezapour-b57704195/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/mostafa-mortezapour-b57704195/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/mostafamortezapour" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
  <a href = "mostafamortezapour1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
