@@ -36,9 +36,7 @@
 
 ***Languages and Tools:***
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
