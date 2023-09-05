@@ -26,14 +26,14 @@
   <br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-  <br/>
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/MostafaCs1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaCs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaCs1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaCs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaCs1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
