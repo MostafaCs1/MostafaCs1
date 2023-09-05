@@ -1,61 +1,48 @@
-<h1 align="center">Hi, I am Mostafa Mortezapour </h1>
+## 👋 &nbsp;Hey there! I'm Mostafa
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm recently graduate Computer Science from the <a href="http://en.azaruniv.ac.ir/">AZARBAIJAN SHAHID MADANI UNIVERSITY</a>.\
+🌱 &nbsp;I'm on track for learning more about Web Delevopment, Wed Design, and Artificial Intelligence.\
+✍️ &nbsp;In my free time, I pursue Tech News and Reading Book as hobbies/side hustles.\
+💬 &nbsp;Ask from me anything you want, If I am alive I will answer within seconds.\
+😎 &nbsp;Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! --->
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+  <br/>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+  <br/>
+  ![MySQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mysql)&nbsp;
+  <br/>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  <br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Iran,Tehran-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
-  <img src="https://komarev.com/ghpvc/?username=MostafaCs1&color=brightgreen" alt="watching_count" />
-</p>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mostafa-mortezapour-b57704195/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/mostafamortezapour" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
- <a href = "mostafamortezapour1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/MostafaCs1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaCs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaCs1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <em>
-    Hello, I am Mostafa Mortezapour a <b>bachelor</b> graduate from <a href="http://en.azaruniv.ac.ir/"> <b>AZARBAIJAN SHAHID MADANI UNIVERSITY</b>, Iran </a>. <br>
-    <b>a passionate self-learner</b> and a <b>Machine Learning Engineer</b>&nbsp;,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data. 
-  </em> 
+<a href="https://www.linkedin.com/in/mostafa-mortezapour-b57704195/">
+  <img src="https://img.shields.io/badge/-Mostafa%20Mortezapour-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mostafamortezapour1@gmail.com"><img src="https://img.shields.io/badge/-mostafamortezapour1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
 </p>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-***About me:***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
- 
-
-***Languages and Tools:***
-<p align="left"> 
-  <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-  <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
-  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
-</p><br><br>
-
-
-***Libraries and Frameworks:***
-<p align="left"> 
-  <img height="40" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png"/>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
-  <img height="40" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>
-  <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
-</p><br>
-
- Git Activeness</b></i></p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafacs1&show_icons=true&count_private=true&include_all_commits=true&title_color=009933&icon_color=009933)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaCs1&layout=compact&custom_title=I%20use&title_color=009933&card_width=445)
-</div>
